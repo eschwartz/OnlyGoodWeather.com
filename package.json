@@ -1,0 +1,22 @@
+{
+  "name": "onlygoodweather.com",
+  "version": "0.0.0",
+  "description": "Only good weather",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/eschwartz/onlygoodweather.com"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Edan Schwartz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eschwartz/onlygoodweather.com/issues"
+  },
+  "homepage": "https://github.com/eschwartz/onlygoodweather.com"
+}

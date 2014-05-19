@@ -1,0 +1,24 @@
+{
+  "name": "onlygoodweather.com",
+  "version": "0.0.0",
+  "authors": [
+    "Edan Schwartz <edan@edanschwartz.com>"
+  ],
+  "description": "Only good weather",
+  "main": "js/app.js",
+  "keywords": [
+    "weather",
+    "always",
+    "sunny"
+  ],
+  "license": "MIT",
+  "homepage": "onlygoodweather.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
